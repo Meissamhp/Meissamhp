@@ -30,4 +30,4 @@ I am a developer focused on the intersection of **Artificial Intelligence**, **C
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=apple-dark)
 
 ### 📬 Connect With Me
-[LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:YOUR_EMAIL)
+[LinkedIn](www.linkedin.com/in/meisam-hosseinpour-ab45bb2bb) | [Email](meisamhosseinpour1990@gmail.com)
