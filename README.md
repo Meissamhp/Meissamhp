@@ -1,44 +1,33 @@
-# Hi there, I'm Meisam Hosseinpour 👋
+#  Meisam Hosseinpour | AI & Security Specialist
 
-I am a dedicated **AI Specialist** and **Cybersecurity Enthusiast** with a deep interest in building secure, intelligent systems. My expertise spans across Machine Learning, low-level programming, and rapid prototyping.
-
----
-
-## 🎓 Professional Certification
-[cite_start]I have successfully completed an intensive **120-hour online Machine Learning Specialist Bootcamp** at **onacademy24 Institute**[cite: 4, 9]. This comprehensive program covered:
-
-* [cite_start]**Python & Mathematics** for data science[cite: 4].
-* [cite_start]**Machine Learning** algorithms and implementation[cite: 4].
-* [cite_start]**Neural Networks & Deep Learning** architectures[cite: 4].
-* [cite_start]**Computer Vision**[cite: 4].
-* [cite_start]**Date of Completion:** 14 Dec 2025[cite: 5].
-* [cite_start]**Credential ID:** SC 404122045[cite: 6].
+> **Prototyping the future at Apple Developer Academy | Certified ML Specialist**
 
 ---
 
-## 🛠 Technical Skills
+### 🚀 About Me
+I am a developer focused on the intersection of **Artificial Intelligence**, **Cybersecurity**, and **User-Centric Design**. Currently, I am leveraging my skills at the **Apple Developer Academy**, where I focus on rapid prototyping and building high-impact solutions.
 
-### 🤖 Artificial Intelligence & Data Science
-* **Python:** My primary language for AI and automation.
-* **Machine Learning:** Expertise in building predictive models.
-* **Deep Learning:** Working with Neural Networks and CV.
-* **R Language:** Proficient in using **R libraries** for statistical data analysis and visualization.
+### 🎓 Professional Qualifications
+* [cite_start]**Machine Learning Specialist Certificate** - onacademy24 Institute [cite: 3, 4]
+    * [cite_start]Completed a **120-hour** intensive bootcamp covering Python, Mathematics, and ML 
+    * [cite_start]Specialized in **Neural Networks, Deep Learning,** and **Computer Vision** 
+    * [cite_start]Credential ID: **SC 404122045** 
+    * [cite_start]Verified on: **14 Dec 2025** [cite: 5]
 
-### 🛡 Cybersecurity & Systems
-* **Cybersecurity:** Focused on threat detection and secure coding practices.
-* **C++:** Strong foundation in C++ for performance-critical applications and system-level understanding.
+### 🛠 Tech Stack & Tools
+* **AI & Data:** Python, Machine Learning, Deep Learning, R (Statistical Libraries)
+* **Systems & Security:** C++, Cybersecurity Frameworks, Secure Coding
+* **Prototyping:** Apple Academy Ecosystem (Swift/SwiftUI & Rapid Prototyping)
 
-### 🍎 Prototyping & Design
-* **Apple Academy Prototype:** Actively working with and utilizing Apple's prototyping frameworks to design and develop user-centric solutions.
-
----
-
-## 📊 GitHub Stats
-![Meisam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-## 📫 Connect with Me
-* **LinkedIn:** [Your Profile Link Here]
-* **Email:** [Your Email Here]
+###  Apple Developer Academy Experience
+* Expertise in **Rapid Prototyping** and turning complex ideas into functional MVPs.
+* Focusing on integrating **AI models** into mobile and system-level applications.
+* Applying "Design Thinking" to solve real-world problems.
 
 ---
-*“Using Intelligence to build a more secure future.”*
+
+### 📊 GitHub Activity
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=apple-dark)
+
+### 📬 Connect With Me
+[LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:YOUR_EMAIL)
