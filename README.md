@@ -22,7 +22,7 @@ Developed a multiphysics framework using PINNs to model urban traffic dynamics a
 
 | Program | Institution | Period |
 |--------|-------------|--------|
-| MSc Civil Engineering | — | 2024–2026 |
+| MSc Civil Engineering | — | 2016–2020 |
 | Apple Developer Academy | Università Federico II, Naples (in partnership with Apple) | Sep 2025 – Jun 2026 |
 | Machine Learning Specialist Bootcamp (120h) | onacademy24 Institute | Dec 2025 |
 | Python Data Structures | University of Michigan / Coursera | May 2024 |
