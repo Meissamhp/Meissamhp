@@ -1,34 +1,35 @@
-#  Meisam Hosseinpour | AI & Security Specialist
+Meisam Hosseinpour
+Computational AI Researcher · Apple Developer Academy · MSc Candidate
 
-> **Prototyping the future at Apple Developer Academy | Certified ML Specialist**
+"Bridging physics-based modeling with machine learning to solve real-world urban challenges."
 
----
 
-### 🚀 About Me
-I am a developer focused on the intersection of **Artificial Intelligence**, **Cybersecurity**, and **User-Centric Design**. Currently, I am leveraging my skills at the **Apple Developer Academy**, where I focus on rapid prototyping and building high-impact solutions.
+🔬 Research
+Physics-Informed Neural Networks for Urban Traffic & CO Dispersion
+Developed a multiphysics framework using PINNs to model urban traffic dynamics and carbon monoxide dispersion simultaneously. The model solves coupled PDEs (LWR traffic model + advection-diffusion equation) without mesh discretization, achieving 59–65% lower error than classical Finite Volume Methods.
 
-### 🎓 Professional Qualifications
-* [cite_start]**Machine Learning Specialist Certificate** - onacademy24 Institute [cite: 3, 4]
-    * [cite_start]Completed a **120-hour** intensive bootcamp covering Python, Mathematics, and ML 
-    * [cite_start]Specialized in **Neural Networks, Deep Learning,** and **Computer Vision** 
-    * [cite_start]Credential ID: **SC 404122045** 
-    * [cite_start]Verified on: **14 Dec 2025** [cite: 5]
+Framework: DeepXDE · PyTorch · Python
+Topics: Scientific ML · Urban Computing · Environmental Modeling
+Status: Manuscript in preparation (July 2026 defense)
 
-### 🛠 Tech Stack & Tools
-* **AI & Data:** Python, Machine Learning, Deep Learning, R (Statistical Libraries)
-* **Systems & Security:** C++, Cybersecurity Frameworks, Secure Coding
-* **Prototyping:** Apple Academy Ecosystem (Swift/SwiftUI & Rapid Prototyping)
+📂 CNN- repository →
 
-###  Apple Developer Academy Experience
-* Expertise in **Rapid Prototyping** and turning complex ideas into functional MVPs.
-* Focusing on integrating **AI models** into mobile and system-level applications.
-* Applying "Design Thinking" to solve real-world problems.
+🎓 Education & Training
+ProgramInstitutionPeriodMSc Civil Engineering—2016–2020 Apple Developer AcademyUniversità Federico II, Naples (in partnership with Apple)Sep 2025 – Jun 2026Machine Learning Specialist Bootcamp (120h)onacademy24 InstituteDec 2025Python Data StructuresUniversity of Michigan / CourseraMay 2024Digital Thread: ImplementationUniversity at Buffalo / CourseraJun 2024Big Data & Business IntelligenceUniversità Federico II / CourseraJun 2024
 
----
+🛠 Tech Stack
+ML & Scientific Computing
+Python PyTorch DeepXDE NumPy Pandas Scikit-learn
+Mobile & Prototyping
+Swift SwiftUI Xcode Design Thinking
+Other
+C++ R Git
 
-### 📊 GitHub Activity
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=apple-dark)
+🎯 Current Focus
 
-### 📬 Connect With Me
-[LinkedIn](www.linkedin.com/in/meisam-hosseinpour-ab45bb2bb) | [Email](meisamhosseinpour1990@gmail.com)
+Finalizing MSc thesis on PINN-based urban modeling
+Building AI-powered iOS applications at Apple Developer Academy
+Applying for PhD programs in Computational Science, Scientific ML, and Urban Informatics
 
+
+📬 Contact
