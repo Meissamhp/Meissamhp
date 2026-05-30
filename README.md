@@ -14,7 +14,7 @@ Developed a multiphysics framework using PINNs to model urban traffic dynamics a
 - Topics: Scientific ML · Urban Computing · Environmental Modeling
 - Status: Manuscript in preparation (July 2026 defense)
 
-📂 [`CNN-` repository →](https://github.com/Meissamhp/CNN-)
+📂 [`Thesis-` repository →](https://github.com/Meissamhp/CNN-)
 
 ---
 
